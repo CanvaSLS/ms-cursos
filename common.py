@@ -1,4 +1,4 @@
-"""Utilidades compartidas por los microservicios de StudyPulse.
+"""Utilidades compartidas por los microservicios de CanvaSLS.
 
 Ideas del curso que se aplican aquí:
   - Semana 9: multi-tenancy con un esquema por tenant (Pattern 2)
